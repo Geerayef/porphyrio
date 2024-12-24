@@ -1,4 +1,4 @@
-![Porphyrio](data:/assets/porphyrio.png)
+![Porphyrio](data:./assets/porphyrio.png)
 
 # Porphyrio
 
